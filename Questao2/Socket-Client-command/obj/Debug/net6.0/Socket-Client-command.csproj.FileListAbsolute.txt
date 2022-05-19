@@ -1,0 +1,15 @@
+D:\xubig\projects\ExercicioSocket\Questao2\Socket-Client-command\bin\Debug\net6.0\Socket-Client-command.exe
+D:\xubig\projects\ExercicioSocket\Questao2\Socket-Client-command\bin\Debug\net6.0\Socket-Client-command.deps.json
+D:\xubig\projects\ExercicioSocket\Questao2\Socket-Client-command\bin\Debug\net6.0\Socket-Client-command.runtimeconfig.json
+D:\xubig\projects\ExercicioSocket\Questao2\Socket-Client-command\bin\Debug\net6.0\Socket-Client-command.dll
+D:\xubig\projects\ExercicioSocket\Questao2\Socket-Client-command\bin\Debug\net6.0\Socket-Client-command.pdb
+D:\xubig\projects\ExercicioSocket\Questao2\Socket-Client-command\obj\Debug\net6.0\Socket-Client-command.csproj.AssemblyReference.cache
+D:\xubig\projects\ExercicioSocket\Questao2\Socket-Client-command\obj\Debug\net6.0\Socket-Client-command.GeneratedMSBuildEditorConfig.editorconfig
+D:\xubig\projects\ExercicioSocket\Questao2\Socket-Client-command\obj\Debug\net6.0\Socket-Client-command.AssemblyInfoInputs.cache
+D:\xubig\projects\ExercicioSocket\Questao2\Socket-Client-command\obj\Debug\net6.0\Socket-Client-command.AssemblyInfo.cs
+D:\xubig\projects\ExercicioSocket\Questao2\Socket-Client-command\obj\Debug\net6.0\Socket-Client-command.csproj.CoreCompileInputs.cache
+D:\xubig\projects\ExercicioSocket\Questao2\Socket-Client-command\obj\Debug\net6.0\Socket-Client-command.dll
+D:\xubig\projects\ExercicioSocket\Questao2\Socket-Client-command\obj\Debug\net6.0\refint\Socket-Client-command.dll
+D:\xubig\projects\ExercicioSocket\Questao2\Socket-Client-command\obj\Debug\net6.0\Socket-Client-command.pdb
+D:\xubig\projects\ExercicioSocket\Questao2\Socket-Client-command\obj\Debug\net6.0\Socket-Client-command.genruntimeconfig.cache
+D:\xubig\projects\ExercicioSocket\Questao2\Socket-Client-command\obj\Debug\net6.0\ref\Socket-Client-command.dll

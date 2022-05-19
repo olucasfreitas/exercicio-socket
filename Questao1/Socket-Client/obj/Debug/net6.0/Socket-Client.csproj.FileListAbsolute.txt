@@ -1,0 +1,15 @@
+D:\xubig\projects\Socket-Client\bin\Debug\net6.0\Socket-Client.exe
+D:\xubig\projects\Socket-Client\bin\Debug\net6.0\Socket-Client.deps.json
+D:\xubig\projects\Socket-Client\bin\Debug\net6.0\Socket-Client.runtimeconfig.json
+D:\xubig\projects\Socket-Client\bin\Debug\net6.0\Socket-Client.dll
+D:\xubig\projects\Socket-Client\bin\Debug\net6.0\Socket-Client.pdb
+D:\xubig\projects\Socket-Client\obj\Debug\net6.0\Socket-Client.csproj.AssemblyReference.cache
+D:\xubig\projects\Socket-Client\obj\Debug\net6.0\Socket-Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\xubig\projects\Socket-Client\obj\Debug\net6.0\Socket-Client.AssemblyInfoInputs.cache
+D:\xubig\projects\Socket-Client\obj\Debug\net6.0\Socket-Client.AssemblyInfo.cs
+D:\xubig\projects\Socket-Client\obj\Debug\net6.0\Socket-Client.csproj.CoreCompileInputs.cache
+D:\xubig\projects\Socket-Client\obj\Debug\net6.0\Socket-Client.dll
+D:\xubig\projects\Socket-Client\obj\Debug\net6.0\refint\Socket-Client.dll
+D:\xubig\projects\Socket-Client\obj\Debug\net6.0\Socket-Client.pdb
+D:\xubig\projects\Socket-Client\obj\Debug\net6.0\Socket-Client.genruntimeconfig.cache
+D:\xubig\projects\Socket-Client\obj\Debug\net6.0\ref\Socket-Client.dll

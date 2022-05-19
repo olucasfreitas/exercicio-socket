@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "COMhwLue4mdNi8YpsEqDDMEJMtNhilYsbCkmMV72nkg=",
+  "Source": "Socket-Server-Request",
+  "BasePath": "_content/Socket-Server-Request",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

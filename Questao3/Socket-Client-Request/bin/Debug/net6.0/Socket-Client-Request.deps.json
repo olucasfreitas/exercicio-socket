@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Socket-Client-Request/1.0.0": {
+        "runtime": {
+          "Socket-Client-Request.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Socket-Client-Request/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
